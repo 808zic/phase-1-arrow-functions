@@ -1,11 +1,8 @@
-const divide = divison => {
-    return 2000/100 ;
-} ;
+const divide = divison => 2000/100;
+   
 
-const square = a =>  {
-    return a*a;
-};
+const square = a => a*a;
+ 
 
-const add = (x,y) => {
-    return x+y;
-}
+const add = (x,y) => x+y ;
+   
